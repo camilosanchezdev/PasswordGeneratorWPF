@@ -16,4 +16,4 @@ Password generator built in WPF
   </p>
 # Download
 
-SourceForge: https://sourceforge.net/projects/passwordgeneratorwpf/
+
