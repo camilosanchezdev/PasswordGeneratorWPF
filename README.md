@@ -8,6 +8,11 @@ Password generator built in WPF
 - Using Security Cryptography (RNGCryptoServiceProvider)
 
 # Images
-
+<p align="center">
+  <img src="PasswordGenerator/screenshots/image1.png">
+  </p>
+  <p align="center">
+  <img src="PasswordGenerator/screenshots/image2.png">
+  </p>
 # Download
 SourceForge: https://sourceforge.net/projects/passwordgeneratorwpf/
