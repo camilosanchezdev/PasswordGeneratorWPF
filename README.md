@@ -15,4 +15,5 @@ Password generator built in WPF
   <img width="500px" src="PasswordGenerator/screenshots/image2.png">
   </p>
 # Download
+
 SourceForge: https://sourceforge.net/projects/passwordgeneratorwpf/
